@@ -1,1 +1,1 @@
-# pygameAlgorithm
+# Djikstra's Algorithm
