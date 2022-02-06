@@ -1,2 +1,2 @@
 # Dijkstra's Algorithm
-A simulation on one of the simplest algorithms, Djikstra's Algorithm.
+This is a simulation of one of the simplest algorithms, Dijkstra's Algorithm.
