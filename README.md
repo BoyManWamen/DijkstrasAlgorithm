@@ -30,6 +30,12 @@ The list of dependencies for this program is the following:
 
 ```pygame==2.1.0```: Pygame is a free and open-source cross-platform library for the development of multimedia applications like video games using Python.
 
+Don't forget to install those dependencies using pip in the terminal.
+
+```sh
+pip install pygame
+```
+
 ### Installing
 
 First, navigate to the directory you want to have your project.
