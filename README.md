@@ -20,7 +20,7 @@
 
 ## Description
 
-This chatbot is a versatile Discord bot designed to enhance your server's communication experience. With its powerful capabilities, it seamlessly integrates Google APIs, Beautiful Soup, and the Google Translate module to provide a comprehensive set of features. Whether you need information from the web, real-time translations, or just a friendly chat, this Discord bot has you covered.
+Welcome to the Dijkstra's Algorithm Visualization repository! This project combines the power of Pygame with the intelligence of Dijkstra's algorithm to create an interactive and visually appealing demonstration.
 
 ## Getting Started
 
