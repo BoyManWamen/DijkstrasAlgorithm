@@ -8,6 +8,10 @@
 <a href="https://github-com.translate.goog/BoyManWamen/DijkstrasAlgorithm/blob/main/README.md?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp">![Translate](https://img.shields.io/badge/Translate-blue)</a>
 </div>
 
+<div align="center">
+<img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGR5NmNkN2duZDV5OGo4bTVtdDZqeTlmcTJkcGR1Z281ejN4Y2ZybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KsUYPqqGNYTGBenxLV/giphy.gif"/>
+</div>
+
 ## Table of Contents
 
 * [Description](#description)
